@@ -1,0 +1,23 @@
+img {
+    width: 30%;
+    height: 20%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    object-fit: contain;
+   
+    
+}
+.card1 {
+    
+      
+        margin-bottom: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        object-fit: contain;
+    
+        
+    
+}

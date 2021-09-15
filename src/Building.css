@@ -1,0 +1,24 @@
+.Card {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    justify-content: space-around;
+    align-items: center;
+}
+.card {
+    width: 30%;
+    height: 20%;
+    padding: 10px;
+    background-color: rgb(243, 149, 149);
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+}
+select {
+    width: 25%;
+    padding: 5px;
+}
+button {
+    padding: 5px;
+}
